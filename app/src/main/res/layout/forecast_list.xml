@@ -23,8 +23,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/showdescriptioncontenttitle"
-        android:paddingTop="10dp"
-        android:paddingBottom="10dp"
+        android:paddingTop="@dimen/margin_ten_dp"
+        android:paddingBottom="@dimen/margin_ten_dp"
         android:background="#68489A"
 
         >
@@ -34,7 +34,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:textSize="20dp"
+            android:textSize="@dimen/large_text_size"
             android:text='@{viewModel.forecast.stop +" "+viewModel.directions.name}'
             android:textColor="@android:color/white"
              />
@@ -45,9 +45,9 @@
         android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginRight="15dp"
-        android:layout_marginLeft="15dp"
-        android:layout_marginTop="5dp"
+        android:layout_marginRight="@dimen/margin_fifteen_dp"
+        android:layout_marginLeft="@dimen/margin_fifteen_dp"
+        android:layout_marginTop="@dimen/margin_five_dp"
         android:weightSum="1"
         android:background="@android:color/white">
 
@@ -56,30 +56,30 @@
             android:layout_width="0dp"
             android:layout_weight="0.44"
             android:layout_height="wrap_content"
-            android:text="Due"
-            android:textSize="20dp"
+            android:text="@string/due"
+            android:textSize="@dimen/large_text_size"
             android:gravity="left"
 
             android:textColor="@android:color/black"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"/>
+            android:layout_marginLeft="@dimen/margin_ten_dp"
+            android:layout_marginRight="@dimen/margin_ten_dp"/>
 
         <TextView
             android:id="@+id/destination"
             android:layout_width="0dp"
             android:layout_weight="0.56"
-            android:textSize="20dp"
+            android:textSize="@dimen/large_text_size"
             android:textColor="@android:color/black"
             android:layout_height="wrap_content"
-            android:text="Destination"
-            android:layout_marginLeft="10dp"
+            android:text="@string/destination"
+            android:layout_marginLeft="@dimen/margin_ten_dp"
             android:layout_gravity="left"/>
     </LinearLayout>
 
     <android.support.v4.widget.SwipeRefreshLayout
         android:id="@+id/swipeRefreshLayout"
         android:layout_width="match_parent"
-        android:layout_height="350dp"
+        android:layout_height="@dimen/tram_details_height"
         app:refreshing="@{viewModel.isLoading}">
 
 
@@ -109,9 +109,26 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical|center_horizontal"
-        android:layout_marginTop="15dp"
-        android:textSize="20dp"
-        android:text="Click to Refresh" />
+        android:layout_marginTop="@dimen/margin_fifteen_dp"
+        android:textSize="@dimen/large_text_size"
+        android:textColor="@android:color/black"
+        android:text="@string/refresh" />
+
+    <!--<TextView
+        android:text="@{viewModel.forecast.message}"
+        android:id="@+id/forecastmessage"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:scrollHorizontally="true"
+        android:paddingLeft="@dimen/padding_fifteen_dip"
+        android:paddingRight="@dimen/padding_fifteen_dip"
+        android:focusable="true"
+        android:layout_marginTop="@dimen/margin_forty_dp"
+        android:focusableInTouchMode="true"
+        android:freezesText="true"/>-->
 
 </LinearLayout>
 </layout>

@@ -20,9 +20,9 @@
         android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginRight="15dp"
-        android:layout_marginLeft="15dp"
-        android:layout_marginTop="5dp"
+        android:layout_marginRight="@dimen/margin_fifteen_dp"
+        android:layout_marginLeft="@dimen/margin_fifteen_dp"
+        android:layout_marginTop="@dimen/margin_five_dp"
         android:weightSum="1"
         android:background="#68489A">
 
@@ -33,15 +33,15 @@
             android:layout_height="wrap_content"
             android:gravity="left"
             android:orientation="vertical"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp" >
+            android:layout_marginLeft="@dimen/margin_ten_dp"
+            android:layout_marginRight="@dimen/margin_ten_dp" >
 
 
             <TextView
                 android:id="@+id/actualminutes"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="20dp"
+                android:textSize="@dimen/large_text_size"
                 android:textColor="@android:color/white"
                 android:text="@{viewModel.dueMins}"
 
@@ -51,21 +51,23 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="@android:color/white"
-                android:text="Minutes" />
+                android:text="@{viewModel.dueMins.equals(`DUE`) ?``  : `Minutes`}"
+
+                />
         </LinearLayout>
 
 
 
         <TextView
-            android:id="@+id/tvProductName"
+            android:id="@+id/destination"
             android:layout_width="0dp"
             android:layout_weight="0.65"
-            android:textSize="20dp"
+            android:textSize="@dimen/large_text_size"
             android:textColor="@android:color/white"
             android:layout_height="wrap_content"
             android:text="@{viewModel.destination}"
-            android:layout_marginLeft="10dp"
-            android:layout_gravity="left"/>
+            android:layout_marginLeft="@dimen/margin_ten_dp"
+            android:layout_gravity="left|center_vertical"/>
     </LinearLayout>
 
 </LinearLayout>

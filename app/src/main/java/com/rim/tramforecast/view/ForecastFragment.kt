@@ -48,7 +48,16 @@ class ForecastFragment : DaggerFragment1() {
         binding.tramView.layoutManager = LayoutManagers
             .grid(resources.getInteger(R.integer.galleryColumns))
             .create(binding.tramView)
+
+        //for forecast message
+       // binding.forecastmessage.isSelected = true
        // addDividers(binding.photosView)
+        binding.refresh.setOnClickListener{
+
+            viewModel.onQueryTimeUpdate()
+        }
+
+
         setAnimationForRefresh(binding.refresh)
         binding.tramItemBinding = ItemBinding.of<TramDetails>(BR.viewModel, R.layout.forecast_item)
         binding.viewModel = viewModel

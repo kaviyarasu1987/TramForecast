@@ -9,7 +9,6 @@ import dagger.android.AndroidInjector
 import dagger.android.DispatchingAndroidInjector
 import dagger.android.support.AndroidSupportInjection
 import dagger.android.support.HasSupportFragmentInjector
-//import dagger.android.support.HasSupportFragmentInjector
 import javax.inject.Inject
 
 abstract class DaggerFragment1 : Fragment(), HasSupportFragmentInjector {
