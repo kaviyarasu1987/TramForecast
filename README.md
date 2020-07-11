@@ -9,10 +9,14 @@ Yes,I have integrated using clear GoogleIO recommended architecture components f
   * data- It has all forecast sealed forecast time based queries,repostories,connectors,models,dagger2 modules to achieve best practices using    Dagger2,MVVM,Publish Relay,Flowable with buffer strategy,injection
   * scheduler- Thread schedulers to schedule Rx tasks
   * view- It has Dagger components,fragments,activity,application injections
-    
+  
+# Does it have a good way for data handling?
+Yes, it has great way to handle the data transtion based on query time meridium to filter out correct bound tram details from service.-Query class
+contains time based singleton meridium decider object to let to get correct bound and stopping details in to -ForecastRepository based on the task which helps to reduce lot boiler plat codes.
+
 # Does it have unit tests?
 Yes it has few unit test only due to time constraint but we can integrate lot in future
- In TimeForecast test class and below methods to do quick unit test for stopping and meridium
+ In TimeForecast test class with below methods to do quick unit test for stopping and meridium
   * show inbound and stopping from view model  from mock forecast response
   * show outbound and stopping from view model  from mock forecast response
   * check after meridium and post meridium based on current hour
