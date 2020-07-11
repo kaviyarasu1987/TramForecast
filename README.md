@@ -13,8 +13,8 @@ Yes,I have integrated using clear GoogleIO recommended architecture components f
 # Does it have unit tests?
 Yes it has few unit test only due to time constraint but we can integrate lot in future
  In TimeForecast test class and below methods to do quick unit test for stopping and meridium
-    * show inbound and stopping from view model  from mock forecast response
-    * show outbound and stopping from view model  from mock forecast response
-    * check after meridium and post meridium based on current hour
+  * show inbound and stopping from view model  from mock forecast response
+  * show outbound and stopping from view model  from mock forecast response
+  * check after meridium and post meridium based on current hour
     
     
