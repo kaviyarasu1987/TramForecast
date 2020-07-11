@@ -5,10 +5,10 @@ Small Luas App to get forecast details based on timings A.M and P.M for two loca
 
 # Does it have a good architecture?
 Yes,I have integrated using clear GoogleIO recommended architecture components for this small task to satisfy myself :)
-  * api- It has Retrofit2 xml forecast service consumption declation class and its constants
+  * api- It has Retrofit2 xml forecast service consumption declation class and  constants.
   * data- It has all forecast sealed forecast time based queries,repostories,connectors,models,dagger2 modules to achieve best practices using    Dagger2,MVVM,Publish Relay,Flowable with buffer strategy,injection
   * scheduler- Thread schedulers to schedule Rx tasks
-  * view- It has Dagger components,fragments,activity,application injections
+  * view- It has Dagger components,fragments,activity,application injections.
   
 # Does it have a good way for data handling?
 Yes, it has great way to handle the data transtion based on query time meridium to filter out correct bound tram details from service.-Query class
