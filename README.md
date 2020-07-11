@@ -1,5 +1,5 @@
 # TramForecast
-Small Luas App to get forecast details based on timings A.M and P.M for two locations such as Marlborough and Stillorgan using clean architecture components and MVVM  
+Small Luas App to get forecast details based on timings A.M and P.M for two locations such as Marlborough,Stillorgan using clean architecture components and MVVM  
 
 ![TramForecast](https://media.giphy.com/media/MbLg46ANUnauqm1Tz2/giphy.gif)
 
