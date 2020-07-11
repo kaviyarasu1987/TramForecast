@@ -22,6 +22,6 @@ Yes it has few unit test only due to time constraint but we can integrate lot in
   * check after meridium and post meridium based on current hour
   
 # Notes
-Please note it is just a small task app as of now but it has plenty ways to improve in best practices,requirements and app functionalites :),Also i didn't get a chance to implemente Room and Dao Sqlite integrations due to time constraints as of now but i will integrate in future by integrating with current repositories. 
+Please note it is just a small task app as of now but it has plenty of ways to improve in best practices,requirements and app functionalites :),Also i didn't get a chance to implemente Room and Dao Sqlite integrations due to time constraints as of now but i will integrate in future by integrating with current repositories. 
     
     
