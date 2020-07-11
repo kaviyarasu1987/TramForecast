@@ -12,7 +12,7 @@ Yes,I have integrated using clear GoogleIO recommended architecture components f
   
 # Does it have a good way for data handling?
 Yes, it has great way to handle the data transtion based on query time meridium to filter out correct bound tram details from service.**Query** class
-contains time based singleton meridium decider object to let to get correct bound and stopping details in to **ForecastRepository** based on the task which helps to reduce lot boiler plat codes.
+contains time based singleton meridium decider object to let to get correct bound and stopping details in to **ForecastRepository**  which helps to reduce lot boiler plat codes.
 
 # Does it have unit tests?
 Yes it has few unit test only due to time constraint but we can integrate lot in future
