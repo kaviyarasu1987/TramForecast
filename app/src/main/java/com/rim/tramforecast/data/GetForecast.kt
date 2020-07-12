@@ -13,6 +13,7 @@ open class GetForecast @Inject internal constructor(
 
   open operator fun invoke(queries: Flowable<Query>): Flowable<AsyncResult<ForecastResponseWrapper>> =
       queries.switchMap {
+
           when (it) {
               is getAntiMeridiem -> forecastRepository.getForecastDetails(stopMarlborough, outbound)
               is getPostMeridiem -> forecastRepository.getForecastDetails(stopStillorgan, inbound)
