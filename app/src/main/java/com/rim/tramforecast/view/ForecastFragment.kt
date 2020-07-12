@@ -23,6 +23,7 @@ import me.tatarka.bindingcollectionadapter2.LayoutManagers
 import javax.inject.Inject
 import android.animation.ObjectAnimator
 import android.animation.PropertyValuesHolder
+import android.support.design.widget.Snackbar
 
 import android.widget.Button
 
@@ -35,6 +36,15 @@ class ForecastFragment : DaggerFragment1() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         viewModel.loadForecast()
+        viewModel.onErrorLoadingForecast.subscribe{
+            view?.let {
+                Snackbar
+                    .make(it, R.string.cannot_load_forecast, Snackbar.LENGTH_LONG)
+                    .setAction(R.string.retry) { viewModel.onQueryTimeUpdate() }
+                    .show()
+            }
+
+        }
 
     }
 
@@ -49,9 +59,7 @@ class ForecastFragment : DaggerFragment1() {
             .grid(resources.getInteger(R.integer.galleryColumns))
             .create(binding.tramView)
 
-        //for forecast message
-       // binding.forecastmessage.isSelected = true
-       // addDividers(binding.photosView)
+
         binding.refresh.setOnClickListener{
 
             viewModel.onQueryTimeUpdate()
@@ -89,17 +97,7 @@ class ForecastFragment : DaggerFragment1() {
 
     }
 
-    /**
-     * This interface must be implemented by activities that contain this
-     * fragment to allow an interaction in this fragment to be communicated
-     * to the activity and potentially other fragments contained in that
-     * activity.
-     *
-     *
-     * See the Android Training lesson [Communicating with Other Fragments]
-     * (http://developer.android.com/training/basics/fragments/communicating.html)
-     * for more information.
-     */
+
 
 
 
