@@ -20,6 +20,7 @@ import javax.inject.Inject
 
 import me.tatarka.bindingcollectionadapter2.ItemBinding
 import android.icu.lang.UCharacter.GraphemeClusterBreak.T
+import com.jakewharton.rxrelay2.PublishRelay
 
 import com.rim.tramforecast.BR
 import com.rim.tramforecast.R
@@ -34,9 +35,10 @@ private val schedulerFactory: SchedulerFactory
     var forecast: ObservableField<ForecastResponseWrapper> = ObservableField<ForecastResponseWrapper>()
     var directions: ObservableField<DirectionResponse> = ObservableField<DirectionResponse>()
     val trams:ObservableList<TramDetails> = ObservableArrayList<TramDetails>()
+    private val onErrorLoadingForecastRelay = PublishRelay.create<Unit>()
 
-
-
+    val onErrorLoadingForecast: Observable<Unit>
+        get() = onErrorLoadingForecastRelay.autoClear()
 
 init {
 
@@ -47,13 +49,13 @@ init {
             when (result) {
                 is Busy -> isLoading.set(true)
                 is Success<ForecastResponseWrapper> -> {
-                    //updatePhotos(result)
+
                     updateForecastDetails(result)
                     isLoading.set(false)
-                    //updatePhotoCount(result)
+
                 }
                 is Failure -> {
-                    //onErrorLoadingPhotosRelay.accept(Unit)
+                    onErrorLoadingForecastRelay.accept(Unit)
                     isLoading.set(false)
                 }
             }
