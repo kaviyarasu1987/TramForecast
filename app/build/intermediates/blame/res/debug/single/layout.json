@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\kavi.yarasu\\StudioProjects\\TramForecastUpdated\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\forecast_list.xml",
+        "source": "C:\\Users\\kavi.yarasu\\StudioProjects\\TramForecastUpdated\\app\\src\\main\\res\\layout\\forecast_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kavi.yarasu\\StudioProjects\\TramForecastUpdated\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\forecast_item.xml",
+        "source": "C:\\Users\\kavi.yarasu\\StudioProjects\\TramForecastUpdated\\app\\src\\main\\res\\layout\\forecast_item.xml"
+    }
+]
