@@ -16,7 +16,7 @@ open class GetForecast @Inject internal constructor(
 
           when (it) {
               is getAntiMeridiem -> forecastRepository.getForecastDetails(stopMarlborough, outbound)
-              is getPostMeridiem -> forecastRepository.getForecastDetails(stopStillorgan, inbound)
+              is Search -> forecastRepository.getForecastDetails(it.stop, inbound)
 
         }
 

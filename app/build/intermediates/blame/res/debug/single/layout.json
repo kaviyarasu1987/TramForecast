@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidProjects\\TramForecastUpToDate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\forecast_list.xml",
+        "source": "D:\\AndroidProjects\\TramForecastUpToDate\\app\\src\\main\\res\\layout\\forecast_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\TramForecastUpToDate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\forecast_item.xml",
+        "source": "D:\\AndroidProjects\\TramForecastUpToDate\\app\\src\\main\\res\\layout\\forecast_item.xml"
+    }
+]

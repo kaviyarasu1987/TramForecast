@@ -1,0 +1,351 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.3.0-beta3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\7373a671c4d6c4170299cf0259fd7e58\AndroidManifest.xml:2:1-9:12
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.3.0-beta3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\816e6dcaea3e5e8c3d6e31257e9e2475\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.databinding:adapters:3.4.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\f883aeef3619f20ed14e7503ba397819\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.4.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2f833ce430d968d1db7609f50ef43728\AndroidManifest.xml:17:1-24:12
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\6a65edd472f6510d3075d5874aa03748\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\b6ba741ddcad3385c2744cbda08231ed\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-android-support:2.20] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\a471427e69dba3e06da91cf768f43ef9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\7fcbdc4bbfc2988a20e3b235b65117b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\c8bd24951b8a53754828cb9ba48fb7e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\de169e48e3fb346d5a6f48f58e34d7bf\AndroidManifest.xml:2:1-9:12
+MERGED from [me.relex:photodraweeview:1.1.3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2b8f41612c8aedc6a0d034aec24b55f9\AndroidManifest.xml:2:1-10:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\bf856812b0c8308fa06e9521a2f2b89d\AndroidManifest.xml:15:1-21:12
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\58e5a25f0a014dacde0249f21b461054\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.dagger:dagger-android:2.20] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\d3c1afd86b80a17d4c685e5c0302c8ab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2c43fd8f9f9efca9f94c7c9b0b637855\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.anastr:flattimelib:1.0.3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\49665c7e2a4f6f09c65a7475215dffd7\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-ads:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\85a18a22606d9e6e86fa3336aa4c0a68\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\e7e879c536f740c4f2ae7400ea8f4147\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\cfaae3b1b236a76f065ecd114459a9e5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\1e97a6e86d2674d6374348633844ceee\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\8f27c559b29614161ace84f9429295ad\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2de3ba86fca611409cea1ff4cb5f06e4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\bcdaa138919d2a7bae5d4c9d209eb2aa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\a58a249bcab621655a218f01fd84b4ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\39a2d60bfbb0e15f2d1abf3bdaf03608\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\245be6114f83ee3c0583c3326c481a8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\3e27988bbe85f4a937fefe6c0de65eb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\f6de250f88bdec22e0c6ded9cb107434\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\380cf39af2193e8b2f35aca98d6d6193\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2dbf3493d70b04eea4d8966d2b0d6142\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\c10dc8de8631c0dd3504c9a0d856d9ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\f52d9added75f05cc872027980067046\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\533a4d6e11382d72d58baf42da76fddb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\82681c69284f3a360844f1ee102f3c2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\f56a7ee2e49c5399e16dd1856dab968b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\48f6f7fec527057022d6030041220049\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\aa1ef76e8ce7fb9027ee19ba303dd48f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\580073299fbbf935615c501eef9f1d2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\eafb8680ba62432aa58b8936e1e04e00\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\29f7888f54e310e836b9f2028d9968dc\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\20d1e0165d237dc1f1ff9c2b55b9ae4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\eb9caaf4f36fe91520f6eac2f3644e9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\41470fe4848fd45c29e57bb7d1716e19\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\5fba9e93282846b7258a485748efdace\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\c58f8807c3ea3d4d69bf8cbd7a8ae255\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\39f3584921b1d241cad7586f9ac9753c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\d82701ea07958a97ca28ac4bd165cca3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\58b228c7786dfbce0a02d9251740b910\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\51832f4da6cf416431a23fb4681e723f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\fd504d45235e0eb5754eb838626346e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\a845061f1677db8c22e64323e304858c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\a2aa6f901288e8cf2302d9732baeef5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\0181ca6189f49c4186952f59632d0873\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\cc49e1e98b5ff229ffe6435ba7021d24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:drawee:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\59ce3edf32e4ccdbad7fd1e5683297e7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\97ed84f5fd052f8a8fbc0828daff6602\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\07095330f7077c819675434627122a94\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\c94dc3ba59c6eae0d7a2bf9ccf257ffb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\3d046c3eb3960582b2481fe09c3066f4\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\1e97a6e86d2674d6374348633844ceee\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\1e97a6e86d2674d6374348633844ceee\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:4:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\1e97a6e86d2674d6374348633844ceee\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\1e97a6e86d2674d6374348633844ceee\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:4:22-76
+application
+ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:5:5-31:19
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.3.0-beta3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\7373a671c4d6c4170299cf0259fd7e58\AndroidManifest.xml:7:5-20
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.3.0-beta3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\7373a671c4d6c4170299cf0259fd7e58\AndroidManifest.xml:7:5-20
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.3.0-beta3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\816e6dcaea3e5e8c3d6e31257e9e2475\AndroidManifest.xml:7:5-20
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.3.0-beta3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\816e6dcaea3e5e8c3d6e31257e9e2475\AndroidManifest.xml:7:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\6a65edd472f6510d3075d5874aa03748\AndroidManifest.xml:11:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\6a65edd472f6510d3075d5874aa03748\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\b6ba741ddcad3385c2744cbda08231ed\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\b6ba741ddcad3385c2744cbda08231ed\AndroidManifest.xml:22:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\58e5a25f0a014dacde0249f21b461054\AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\58e5a25f0a014dacde0249f21b461054\AndroidManifest.xml:8:5-20
+MERGED from [com.github.anastr:flattimelib:1.0.3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\49665c7e2a4f6f09c65a7475215dffd7\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.anastr:flattimelib:1.0.3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\49665c7e2a4f6f09c65a7475215dffd7\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\e7e879c536f740c4f2ae7400ea8f4147\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\e7e879c536f740c4f2ae7400ea8f4147\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\cfaae3b1b236a76f065ecd114459a9e5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\cfaae3b1b236a76f065ecd114459a9e5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\1e97a6e86d2674d6374348633844ceee\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\1e97a6e86d2674d6374348633844ceee\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\8f27c559b29614161ace84f9429295ad\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\8f27c559b29614161ace84f9429295ad\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2de3ba86fca611409cea1ff4cb5f06e4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2de3ba86fca611409cea1ff4cb5f06e4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\bcdaa138919d2a7bae5d4c9d209eb2aa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\bcdaa138919d2a7bae5d4c9d209eb2aa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2dbf3493d70b04eea4d8966d2b0d6142\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2dbf3493d70b04eea4d8966d2b0d6142\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\eafb8680ba62432aa58b8936e1e04e00\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\eafb8680ba62432aa58b8936e1e04e00\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\29f7888f54e310e836b9f2028d9968dc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\29f7888f54e310e836b9f2028d9968dc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\41470fe4848fd45c29e57bb7d1716e19\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\41470fe4848fd45c29e57bb7d1716e19\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\3d046c3eb3960582b2481fe09c3066f4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\3d046c3eb3960582b2481fe09c3066f4\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\29f7888f54e310e836b9f2028d9968dc\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:11:9-43
+	android:icon
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:9:9-38
+	android:allowBackup
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:13:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:7:9-44
+	android:name
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:6:9-41
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:16:9-18:69
+	android:value
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:18:13-67
+	android:name
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:17:13-69
+activity#com.rim.tramforecast.view.ForecastActivity
+ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:20:5-29:16
+	android:name
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:20:15-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:23:9-27:25
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:24:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml:26:23-70
+uses-sdk
+INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.3.0-beta3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\7373a671c4d6c4170299cf0259fd7e58\AndroidManifest.xml:5:5-44
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.3.0-beta3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\7373a671c4d6c4170299cf0259fd7e58\AndroidManifest.xml:5:5-44
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.3.0-beta3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\816e6dcaea3e5e8c3d6e31257e9e2475\AndroidManifest.xml:5:5-44
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.3.0-beta3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\816e6dcaea3e5e8c3d6e31257e9e2475\AndroidManifest.xml:5:5-44
+MERGED from [com.android.databinding:adapters:3.4.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\f883aeef3619f20ed14e7503ba397819\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.4.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\f883aeef3619f20ed14e7503ba397819\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2f833ce430d968d1db7609f50ef43728\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2f833ce430d968d1db7609f50ef43728\AndroidManifest.xml:22:5-44
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\6a65edd472f6510d3075d5874aa03748\AndroidManifest.xml:7:5-9:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\6a65edd472f6510d3075d5874aa03748\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\b6ba741ddcad3385c2744cbda08231ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\b6ba741ddcad3385c2744cbda08231ed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.20] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\a471427e69dba3e06da91cf768f43ef9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.20] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\a471427e69dba3e06da91cf768f43ef9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\7fcbdc4bbfc2988a20e3b235b65117b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\7fcbdc4bbfc2988a20e3b235b65117b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\c8bd24951b8a53754828cb9ba48fb7e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\c8bd24951b8a53754828cb9ba48fb7e8\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\de169e48e3fb346d5a6f48f58e34d7bf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\de169e48e3fb346d5a6f48f58e34d7bf\AndroidManifest.xml:5:5-7:41
+MERGED from [me.relex:photodraweeview:1.1.3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2b8f41612c8aedc6a0d034aec24b55f9\AndroidManifest.xml:8:5-44
+MERGED from [me.relex:photodraweeview:1.1.3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2b8f41612c8aedc6a0d034aec24b55f9\AndroidManifest.xml:8:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\bf856812b0c8308fa06e9521a2f2b89d\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\bf856812b0c8308fa06e9521a2f2b89d\AndroidManifest.xml:19:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\58e5a25f0a014dacde0249f21b461054\AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\58e5a25f0a014dacde0249f21b461054\AndroidManifest.xml:6:5-43
+MERGED from [com.google.dagger:dagger-android:2.20] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\d3c1afd86b80a17d4c685e5c0302c8ab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.20] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\d3c1afd86b80a17d4c685e5c0302c8ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2c43fd8f9f9efca9f94c7c9b0b637855\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2c43fd8f9f9efca9f94c7c9b0b637855\AndroidManifest.xml:20:5-44
+MERGED from [com.github.anastr:flattimelib:1.0.3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\49665c7e2a4f6f09c65a7475215dffd7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.anastr:flattimelib:1.0.3] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\49665c7e2a4f6f09c65a7475215dffd7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\85a18a22606d9e6e86fa3336aa4c0a68\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\85a18a22606d9e6e86fa3336aa4c0a68\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\e7e879c536f740c4f2ae7400ea8f4147\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\e7e879c536f740c4f2ae7400ea8f4147\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\cfaae3b1b236a76f065ecd114459a9e5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\cfaae3b1b236a76f065ecd114459a9e5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\1e97a6e86d2674d6374348633844ceee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\1e97a6e86d2674d6374348633844ceee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\8f27c559b29614161ace84f9429295ad\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\8f27c559b29614161ace84f9429295ad\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2de3ba86fca611409cea1ff4cb5f06e4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2de3ba86fca611409cea1ff4cb5f06e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\bcdaa138919d2a7bae5d4c9d209eb2aa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\bcdaa138919d2a7bae5d4c9d209eb2aa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\a58a249bcab621655a218f01fd84b4ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\a58a249bcab621655a218f01fd84b4ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\39a2d60bfbb0e15f2d1abf3bdaf03608\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\39a2d60bfbb0e15f2d1abf3bdaf03608\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\245be6114f83ee3c0583c3326c481a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\245be6114f83ee3c0583c3326c481a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\3e27988bbe85f4a937fefe6c0de65eb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\3e27988bbe85f4a937fefe6c0de65eb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\f6de250f88bdec22e0c6ded9cb107434\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\f6de250f88bdec22e0c6ded9cb107434\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\380cf39af2193e8b2f35aca98d6d6193\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\380cf39af2193e8b2f35aca98d6d6193\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2dbf3493d70b04eea4d8966d2b0d6142\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2dbf3493d70b04eea4d8966d2b0d6142\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\c10dc8de8631c0dd3504c9a0d856d9ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\c10dc8de8631c0dd3504c9a0d856d9ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\f52d9added75f05cc872027980067046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\f52d9added75f05cc872027980067046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\533a4d6e11382d72d58baf42da76fddb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\533a4d6e11382d72d58baf42da76fddb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\82681c69284f3a360844f1ee102f3c2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\82681c69284f3a360844f1ee102f3c2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\f56a7ee2e49c5399e16dd1856dab968b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\f56a7ee2e49c5399e16dd1856dab968b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\48f6f7fec527057022d6030041220049\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\48f6f7fec527057022d6030041220049\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\aa1ef76e8ce7fb9027ee19ba303dd48f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\aa1ef76e8ce7fb9027ee19ba303dd48f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\580073299fbbf935615c501eef9f1d2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\580073299fbbf935615c501eef9f1d2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\eafb8680ba62432aa58b8936e1e04e00\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\eafb8680ba62432aa58b8936e1e04e00\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\29f7888f54e310e836b9f2028d9968dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\29f7888f54e310e836b9f2028d9968dc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\20d1e0165d237dc1f1ff9c2b55b9ae4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\20d1e0165d237dc1f1ff9c2b55b9ae4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\eb9caaf4f36fe91520f6eac2f3644e9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\eb9caaf4f36fe91520f6eac2f3644e9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\41470fe4848fd45c29e57bb7d1716e19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\41470fe4848fd45c29e57bb7d1716e19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\5fba9e93282846b7258a485748efdace\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\5fba9e93282846b7258a485748efdace\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\c58f8807c3ea3d4d69bf8cbd7a8ae255\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\c58f8807c3ea3d4d69bf8cbd7a8ae255\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\39f3584921b1d241cad7586f9ac9753c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\39f3584921b1d241cad7586f9ac9753c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\d82701ea07958a97ca28ac4bd165cca3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\d82701ea07958a97ca28ac4bd165cca3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\58b228c7786dfbce0a02d9251740b910\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\58b228c7786dfbce0a02d9251740b910\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\51832f4da6cf416431a23fb4681e723f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\51832f4da6cf416431a23fb4681e723f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\fd504d45235e0eb5754eb838626346e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\fd504d45235e0eb5754eb838626346e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\a845061f1677db8c22e64323e304858c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\a845061f1677db8c22e64323e304858c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\a2aa6f901288e8cf2302d9732baeef5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\a2aa6f901288e8cf2302d9732baeef5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\0181ca6189f49c4186952f59632d0873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\0181ca6189f49c4186952f59632d0873\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\cc49e1e98b5ff229ffe6435ba7021d24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\cc49e1e98b5ff229ffe6435ba7021d24\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:drawee:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\59ce3edf32e4ccdbad7fd1e5683297e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\59ce3edf32e4ccdbad7fd1e5683297e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\97ed84f5fd052f8a8fbc0828daff6602\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\97ed84f5fd052f8a8fbc0828daff6602\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\07095330f7077c819675434627122a94\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\07095330f7077c819675434627122a94\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\c94dc3ba59c6eae0d7a2bf9ccf257ffb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.5.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\c94dc3ba59c6eae0d7a2bf9ccf257ffb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\3d046c3eb3960582b2481fe09c3066f4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\3d046c3eb3960582b2481fe09c3066f4\AndroidManifest.xml:5:5-44
+INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\85a18a22606d9e6e86fa3336aa4c0a68\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\TramForecastUpToDate\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\360532c72c98494d63846cb07f725577\AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\1e97a6e86d2674d6374348633844ceee\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\1e97a6e86d2674d6374348633844ceee\AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2de3ba86fca611409cea1ff4cb5f06e4\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2de3ba86fca611409cea1ff4cb5f06e4\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2de3ba86fca611409cea1ff4cb5f06e4\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\bcdaa138919d2a7bae5d4c9d209eb2aa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2dbf3493d70b04eea4d8966d2b0d6142\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\2dbf3493d70b04eea4d8966d2b0d6142\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\eafb8680ba62432aa58b8936e1e04e00\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\eafb8680ba62432aa58b8936e1e04e00\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\bcdaa138919d2a7bae5d4c9d209eb2aa\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Kavi\.gradle\caches\transforms-2\files-2.1\bcdaa138919d2a7bae5d4c9d209eb2aa\AndroidManifest.xml:27:13-51

@@ -15,12 +15,7 @@ internal class ForecastRepositoryImpl internal  constructor(
 
     private fun Single<ForecastResponseWrapper>.toForecastResponse(boundDetails: String): Flowable<AsyncResult<ForecastResponseWrapper>> =
         this.toFlowable()
-            .doOnNext{
-                it.DirectionList = it.DirectionList!!.filter {
-                    it.name == boundDetails
 
-                }
-            }
             .map<AsyncResult<ForecastResponseWrapper>>  {
                 Success(it)
             }

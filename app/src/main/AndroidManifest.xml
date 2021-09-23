@@ -10,7 +10,12 @@
         android:label="@string/app_name"
         android:roundIcon="@drawable/tram"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme"
+
+        >
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-9977175471932994~4273563645"/>
 
     <activity android:name=".view.ForecastActivity"
         >

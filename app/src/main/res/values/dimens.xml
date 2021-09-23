@@ -4,7 +4,7 @@
     <dimen name="margin_ten_dp">10dp</dimen>
     <dimen name="margin_fifteen_dp">15dp</dimen>
     <dimen name="margin_five_dp">5dp</dimen>
-    <dimen name="tram_details_height">350dp</dimen>
+    <dimen name="tram_details_height">220dp</dimen>
     <dimen name="margin_forty_dp">40dp</dimen>
 
     <dimen name="padding_fifteen_dip">15dip</dimen>

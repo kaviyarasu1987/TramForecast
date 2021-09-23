@@ -8,19 +8,19 @@ import java.util.Calendar.*
 import javax.inject.Inject
 
 class ForecastRepositoryConnector @Inject internal constructor() {
-    private val timeZoneTextRelay = BehaviorRelay.create<Int>()
+    private val timeZoneTextRelay = BehaviorRelay.create<String>()
 
 
     open val queries: Flowable<Query>
         get() = timeZoneTextRelay.map {
-                when (it>=0&&it<12) {
+                when (it.isBlank()) {
                     true -> getAntiMeridiem
-                    false -> getPostMeridiem
+                    false -> Search(it)
                 }
             }.toFlowable(BackpressureStrategy.BUFFER)
 
-    open fun updateForecast() {
+    open fun updateForecast(stop:String) {
 
-        timeZoneTextRelay.accept(getInstance().get(Calendar.HOUR_OF_DAY))
+        timeZoneTextRelay.accept(stop)
     }
 }

@@ -5,4 +5,82 @@
     <string name="refresh">Click To Refresh</string>
     <string name="cannot_load_forecast">Error occured</string>
     <string name="retry">Retry</string>
+
+    <string-array name="stoppings">
+        <item>STX, St. Stephen\'s Green</item>
+        <item>HIN, Heuston</item>
+        <item>HCT, Heuston</item>
+        <item>TPT, The Point</item>
+        <item>SDK, Spencer Dock</item>
+        <item>MYS, Mayor Square NCI</item>
+        <item>GDK, George\'s Dock</item>
+        <item>CON, Connolly</item>
+        <item>BUS, Busáras</item>
+        <item>ABB, Abbey Street</item>
+        <item>JER, Jervis</item>
+        <item>FOU, Four Courts</item>
+        <item>SMI, Smithfield</item>
+        <item>MUS, Museum</item>
+        <item>HEU, Heuston</item>
+        <item>JAM, James\'s</item>
+        <item>FAT, Fatima</item>
+        <item>RIA, Rialto</item>
+        <item>SUI, Suir Road</item>
+        <item>GOL, Goldenbridge</item>
+        <item>DRI, Drimnagh</item>
+        <item>BLA, Blackhorse</item>
+        <item>BLU, Bluebell</item>
+        <item>KYL, Kylemore</item>
+        <item>RED, Red Cow</item>
+        <item>KIN, Kingswood</item>
+        <item>BEL, Belgard</item>
+        <item>COO, Cookstown</item>
+        <item>HOS, Hospital</item>
+        <item>TAL, Tallaght</item>
+        <item>FET, Fettercairn</item>
+        <item>CVN, Cheeverstown</item>
+        <item>CIT, Citywest Campus</item>
+        <item>FOR, Fortunestown</item>
+        <item>SAG, Saggart</item>
+        <item>DEP, Depot</item>
+        <item>BRO, Broombridge</item>
+        <item>CAB, Cabra</item>
+        <item>PHI, Phibsborough</item>
+        <item>GRA, Grangegorman</item>
+        <item>BRD, Broadstone DIT</item>
+        <item>DOM, Dominick</item>
+        <item>PAR, Parnell</item>
+        <item>OUP, O\'Connell Upper</item>
+        <item>OGP, O\'Connell GPO</item>
+        <item>MAR, Marlborough</item>
+        <item>WES, Westmoreland</item>
+        <item>TRY, Trinity</item>
+        <item>DAW, Dawson</item>
+        <item>STS, St. Stephen\'s Green</item>
+        <item>HAR, Harcourt</item>
+        <item>CHA, Charlemont</item>
+        <item>RAN, Ranelagh2</item>
+        <item>BEE, Beechwood</item>
+        <item>COW, Cowper</item>
+        <item>MIL, Milltown</item>
+        <item>WIN, Windy Arbour</item>
+        <item>DUN, Dundrum</item>
+        <item>BAL, Balally</item>
+        <item>KIL, Kilmacud</item>
+        <item>STI, Stillorgan</item>
+        <item>SAN, Sandyford</item>
+        <item>CPK, Central Park</item>
+        <item>GLE, Glencairn</item>
+        <item>GAL, The Gallops</item>
+        <item>LEO, Leopardstown Valley</item>
+        <item>BAW, Ballyogan Wood</item>
+        <item>RCC, Racecourse</item>
+        <item>CCK, Carrickmines</item>
+        <item>BRE, Brennanstown</item>
+        <item>LAU, Laughanstown</item>
+        <item>CHE, Cherrywood</item>
+        <item>BRI, Bride\'s Glen</item>
+
+    </string-array>
+
 </resources>
