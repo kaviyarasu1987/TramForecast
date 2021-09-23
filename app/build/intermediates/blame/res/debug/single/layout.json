@@ -1,10 +1,19 @@
 [
     {
+<<<<<<< HEAD
         "merged": "D:\\AndroidProjects\\TramForecastUpToDate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\forecast_list.xml",
         "source": "D:\\AndroidProjects\\TramForecastUpToDate\\app\\src\\main\\res\\layout\\forecast_list.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\TramForecastUpToDate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\forecast_item.xml",
         "source": "D:\\AndroidProjects\\TramForecastUpToDate\\app\\src\\main\\res\\layout\\forecast_item.xml"
+=======
+        "merged": "C:\\Users\\kavi.yarasu\\StudioProjects\\TramForecastUpdated\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\forecast_list.xml",
+        "source": "C:\\Users\\kavi.yarasu\\StudioProjects\\TramForecastUpdated\\app\\src\\main\\res\\layout\\forecast_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kavi.yarasu\\StudioProjects\\TramForecastUpdated\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\forecast_item.xml",
+        "source": "C:\\Users\\kavi.yarasu\\StudioProjects\\TramForecastUpdated\\app\\src\\main\\res\\layout\\forecast_item.xml"
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     }
 ]

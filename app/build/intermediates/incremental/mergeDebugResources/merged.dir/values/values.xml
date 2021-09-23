@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<<<<<<< HEAD
     <string-array name="stoppings">
         <item>STX, St. Stephen\'s Green</item>
         <item>HIN, Heuston</item>
@@ -76,6 +77,8 @@
         <item>BRI, Bride\'s Glen</item>
 
     </string-array>
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <attr format="reference" name="bottomAppBarStyle"/>
     <attr format="reference" name="bottomNavigationStyle"/>
     <attr format="reference" name="bottomSheetDialogTheme"/>
@@ -187,7 +190,10 @@
     <color name="mtrl_textinput_hovered_box_stroke_color">#DE000000</color>
     <color name="notification_action_color_filter">#ffffffff</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
+<<<<<<< HEAD
     <color name="notification_material_background_media_default_color">#ff424242</color>
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
     <color name="primary_material_dark">@color/material_grey_900</color>
@@ -432,7 +438,11 @@
     <dimen name="tooltip_vertical_padding">6.5dp</dimen>
     <dimen name="tooltip_y_offset_non_touch">0dp</dimen>
     <dimen name="tooltip_y_offset_touch">16dp</dimen>
+<<<<<<< HEAD
     <dimen name="tram_details_height">220dp</dimen>
+=======
+    <dimen name="tram_details_height">350dp</dimen>
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
     <item name="action_bar_activity_content" type="id"/>
@@ -484,7 +494,10 @@
     <integer name="design_snackbar_text_max_lines">2</integer>
     <integer name="design_tab_indicator_anim_duration_ms">300</integer>
     <integer name="galleryColumns">1</integer>
+<<<<<<< HEAD
     <integer name="google_play_services_version">12451000</integer>
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <integer name="hide_password_duration">320</integer>
     <integer name="mtrl_btn_anim_delay_ms">100</integer>
     <integer name="mtrl_btn_anim_duration_ms">100</integer>
@@ -534,10 +547,15 @@
     <string name="app_name">Luas</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
+<<<<<<< HEAD
     <string name="cannot_load_forecast">Error occured</string>
     <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+=======
+    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <string name="destination">Destination</string>
     <string name="due">Due</string>
     <string name="fab_transformation_scrim_behavior" translatable="false">android.support.design.transformation.FabTransformationScrimBehavior</string>
@@ -550,6 +568,7 @@
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="refresh">Click To Refresh</string>
+<<<<<<< HEAD
     <string name="retry">Retry</string>
     <string name="s1">Save image</string>
     <string name="s2">"Allow Ad to store image in Picture gallery?"</string>
@@ -558,6 +577,8 @@
     <string name="s5">Create calendar event</string>
     <string name="s6">Allow Ad to create a calendar event?</string>
     <string name="s7">Test Ad</string>
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <string name="search_hint">Search</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -2265,17 +2286,25 @@
         <item name="android:textSize">12sp</item>
         <item name="android:textColor">?android:attr/textColorSecondary</item>
     </style>
+<<<<<<< HEAD
     <style name="TextAppearance.Compat.Notification.Info.Media"/>
     <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
     <style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/>
     <style name="TextAppearance.Compat.Notification.Media"/>
+=======
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <style name="TextAppearance.Compat.Notification.Time">
         <item name="android:textSize">12sp</item>
         <item name="android:textColor">?android:attr/textColorSecondary</item>
     </style>
+<<<<<<< HEAD
     <style name="TextAppearance.Compat.Notification.Time.Media"/>
     <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
     <style name="TextAppearance.Compat.Notification.Title.Media"/>
+=======
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <style name="TextAppearance.Design.CollapsingToolbar.Expanded" parent="TextAppearance.AppCompat.Display1">
     <item name="android:textColor">?android:attr/textColorPrimary</item>
   </style>
@@ -2471,6 +2500,7 @@
     <item name="windowActionBar">false</item>
     <item name="windowNoTitle">true</item>
   </style>
+<<<<<<< HEAD
     <style name="Theme.IAPTheme" parent="android:Theme">
 <item name="android:windowIsFloating">true</item>
 <item name="android:windowBackground">@android:color/transparent</item>
@@ -2479,6 +2509,8 @@
 <item name="android:backgroundDimEnabled">false</item>
 <item name="android:windowIsTranslucent">true</item>
 </style>
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <style name="Theme.MaterialComponents" parent="Base.Theme.MaterialComponents"/>
     <style name="Theme.MaterialComponents.BottomSheetDialog" parent="Theme.MaterialComponents.Dialog">
     <item name="android:windowBackground">@android:color/transparent</item>
@@ -3041,6 +3073,7 @@
          -->
         <attr format="reference" name="expandActivityOverflowButtonDrawable"/>
     </declare-styleable>
+<<<<<<< HEAD
     <declare-styleable name="AdsAttrs">
 <attr format="string" name="adSize"/>
 
@@ -3048,6 +3081,8 @@
 
 <attr format="string" name="adUnitId"/>
 </declare-styleable>
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <declare-styleable name="AlertDialog">
         <attr name="android:layout"/>
         <attr format="reference" name="buttonPanelSideLayout"/>
@@ -3846,7 +3881,10 @@
             <flag name="all" value="0x77"/>
         </attr>
     </declare-styleable>
+<<<<<<< HEAD
     <declare-styleable name="CountDownTimerView"><attr format="color" name="indicatorColor"/><attr format="color" name="remainingTimeColor"/><attr format="color" name="strokeColor"/><attr format="color" name="elapsedTimeColor"/><attr format="dimension" name="strokeWidth"/></declare-styleable>
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <declare-styleable name="DesignTheme"><attr name="bottomSheetDialogTheme"/><attr name="bottomSheetStyle"/></declare-styleable>
     <declare-styleable name="DrawerArrowToggle">
         <!-- The drawing color for the bars -->
@@ -3866,7 +3904,10 @@
         <!-- The thickness (stroke size) for the bar paint -->
         <attr format="dimension" name="thickness"/>
     </declare-styleable>
+<<<<<<< HEAD
     <declare-styleable name="FlatClockView"><attr format="color" name="minIndicatorColor"/><attr format="color" name="hourIndicatorColor"/><attr format="color" name="secIndicatorColor"/><attr format="color" name="bigMarkColor"/><attr format="color" name="smallMarkColor"/><attr format="color" name="backgroundCircleColor"/><attr format="string" name="time"/><attr format="boolean" name="withBackground"/></declare-styleable>
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <declare-styleable name="FloatingActionButton"><attr name="backgroundTint"/><attr name="backgroundTintMode"/><attr name="rippleColor"/><attr name="fabSize">
       
       <enum name="auto" value="-1"/>
@@ -4053,7 +4094,10 @@
         <!-- The current color for the offset inside the gradient. -->
         <attr name="android:color"/>
     </declare-styleable>
+<<<<<<< HEAD
     <declare-styleable name="HourGlassView"><attr format="color" name="hourGlassColor"/><attr format="color" name="sandColor"/></declare-styleable>
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <declare-styleable name="LinearLayoutCompat">
         <!-- Should the layout be a column or a row?  Use "horizontal"
              for a row, "vertical" for a column.  The default is

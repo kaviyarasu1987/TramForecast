@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":2,"versionName":"1.1","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.rim.tramforecast","split":"","minSdkVersion":"21"}}]
+=======
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.rim.tramforecast","split":"","minSdkVersion":"21"}}]
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7

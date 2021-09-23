@@ -11,10 +11,13 @@
                                   
                                                                       
 
+<<<<<<< HEAD
                  
                                           
                                                                       
 
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
            
 
 
@@ -23,6 +26,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent" android:tag="layout/forecast_list_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+<<<<<<< HEAD
 
     <LinearLayout
 
@@ -55,6 +59,8 @@
 
     </LinearLayout>
 
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -71,7 +77,11 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:textSize="@dimen/large_text_size"
+<<<<<<< HEAD
             android:tag="binding_2"                                                 
+=======
+            android:tag="binding_1"                                                 
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
             android:textColor="@android:color/white"
              />
     </LinearLayout>
@@ -116,7 +126,11 @@
         android:id="@+id/swipeRefreshLayout"
         android:layout_width="match_parent"
         android:layout_height="@dimen/tram_details_height"
+<<<<<<< HEAD
         android:tag="binding_3"                >
+=======
+        android:tag="binding_2"                >
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 
 
 
@@ -125,12 +139,17 @@
             android:id="@+id/tramView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+<<<<<<< HEAD
             android:tag="binding_4"             
+=======
+            android:tag="binding_3"             
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
                                            />
 
 
 
     </android.support.v4.widget.SwipeRefreshLayout>
+<<<<<<< HEAD
 
 
     <LinearLayout
@@ -211,6 +230,9 @@
 
     </android.support.v4.widget.SwipeRefreshLayout>
    <!-- <Button
+=======
+    <Button
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
         android:id="@+id/refresh"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -227,7 +249,11 @@
         android:layout_marginTop="@dimen/margin_fifteen_dp"
         android:textSize="@dimen/large_text_size"
         android:textColor="@android:color/black"
+<<<<<<< HEAD
         android:text="@string/refresh" />-->
+=======
+        android:text="@string/refresh" />
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 
     <!--<TextView
         android:text="@{viewModel.forecast.message}"
@@ -244,6 +270,7 @@
         android:layout_marginTop="@dimen/margin_forty_dp"
         android:focusableInTouchMode="true"
         android:freezesText="true"/>-->
+<<<<<<< HEAD
     <com.google.android.gms.ads.AdView
         xmlns:ads="http://schemas.android.com/apk/res-auto"
         android:id="@+id/adView"
@@ -253,5 +280,8 @@
         ads:adSize="BANNER"
         ads:adUnitId="ca-app-pub-9977175471932994/4081991951">
     </com.google.android.gms.ads.AdView>
+=======
+
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 </LinearLayout>
          

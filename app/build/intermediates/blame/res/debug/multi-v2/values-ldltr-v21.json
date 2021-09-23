@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "D:\\AndroidProjects\\TramForecastUpToDate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kavi\\.gradle\\caches\\transforms-2\\files-2.1\\7fcbdc4bbfc2988a20e3b235b65117b1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+=======
+            "outputFile": "C:\\Users\\kavi.yarasu\\StudioProjects\\TramForecastUpdated\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kavi.yarasu\\.gradle\\caches\\transforms-2\\files-2.1\\b1bf139bfc365efc28263c58e4966e77\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

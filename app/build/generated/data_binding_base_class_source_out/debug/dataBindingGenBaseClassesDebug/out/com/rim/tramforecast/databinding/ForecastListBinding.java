@@ -12,10 +12,14 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.LinearLayout;
+<<<<<<< HEAD
 import android.widget.Spinner;
 import android.widget.TextView;
 import com.github.anastr.flattimelib.CountDownTimerView;
 import com.google.android.gms.ads.AdView;
+=======
+import android.widget.TextView;
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 import com.rim.tramforecast.data.ForecastViewModel;
 import java.lang.Deprecated;
 import java.lang.Object;
@@ -23,6 +27,7 @@ import me.tatarka.bindingcollectionadapter2.ItemBinding;
 
 public abstract class ForecastListBinding extends ViewDataBinding {
   @NonNull
+<<<<<<< HEAD
   public final AdView adView;
 
   @NonNull
@@ -39,11 +44,24 @@ public abstract class ForecastListBinding extends ViewDataBinding {
 
   @NonNull
   public final Button notification;
+=======
+  public final TextView destination;
+
+  @NonNull
+  public final TextView due;
+
+  @NonNull
+  public final Button refresh;
+
+  @NonNull
+  public final TextView refreshtext;
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 
   @NonNull
   public final LinearLayout showdescriptioncontenttitle;
 
   @NonNull
+<<<<<<< HEAD
   public final LinearLayout showdescriptioncontenttitleinbound;
 
   @NonNull
@@ -76,12 +94,26 @@ public abstract class ForecastListBinding extends ViewDataBinding {
   @NonNull
   public final RecyclerView tramViewOutbound;
 
+=======
+  public final TextView stopview;
+
+  @NonNull
+  public final SwipeRefreshLayout swipeRefreshLayout;
+
+  @NonNull
+  public final LinearLayout textLayout;
+
+  @NonNull
+  public final RecyclerView tramView;
+
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
   @Bindable
   protected ForecastViewModel mViewModel;
 
   @Bindable
   protected ItemBinding mTramItemBinding;
 
+<<<<<<< HEAD
   @Bindable
   protected ItemBinding mTramItemBindingOutBound;
 
@@ -112,6 +144,22 @@ public abstract class ForecastListBinding extends ViewDataBinding {
     this.tramDownTimer = tramDownTimer;
     this.tramView = tramView;
     this.tramViewOutbound = tramViewOutbound;
+=======
+  protected ForecastListBinding(Object _bindingComponent, View _root, int _localFieldCount,
+      TextView destination, TextView due, Button refresh, TextView refreshtext,
+      LinearLayout showdescriptioncontenttitle, TextView stopview,
+      SwipeRefreshLayout swipeRefreshLayout, LinearLayout textLayout, RecyclerView tramView) {
+    super(_bindingComponent, _root, _localFieldCount);
+    this.destination = destination;
+    this.due = due;
+    this.refresh = refresh;
+    this.refreshtext = refreshtext;
+    this.showdescriptioncontenttitle = showdescriptioncontenttitle;
+    this.stopview = stopview;
+    this.swipeRefreshLayout = swipeRefreshLayout;
+    this.textLayout = textLayout;
+    this.tramView = tramView;
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
   }
 
   public abstract void setViewModel(@Nullable ForecastViewModel viewModel);
@@ -128,6 +176,7 @@ public abstract class ForecastListBinding extends ViewDataBinding {
     return mTramItemBinding;
   }
 
+<<<<<<< HEAD
   public abstract void setTramItemBindingOutBound(@Nullable ItemBinding tramItemBindingOutBound);
 
   @Nullable
@@ -135,6 +184,8 @@ public abstract class ForecastListBinding extends ViewDataBinding {
     return mTramItemBindingOutBound;
   }
 
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
   @NonNull
   public static ForecastListBinding inflate(@NonNull LayoutInflater inflater,
       @Nullable ViewGroup root, boolean attachToRoot) {

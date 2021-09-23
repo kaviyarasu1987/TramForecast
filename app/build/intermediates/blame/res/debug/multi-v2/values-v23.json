@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "D:\\AndroidProjects\\TramForecastUpToDate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kavi\\.gradle\\caches\\transforms-2\\files-2.1\\eb9caaf4f36fe91520f6eac2f3644e9a\\res\\values-v23\\values-v23.xml",
+=======
+            "outputFile": "C:\\Users\\kavi.yarasu\\StudioProjects\\TramForecastUpdated\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kavi.yarasu\\.gradle\\caches\\transforms-2\\files-2.1\\a0abbe734bc652ddaaae15e06eb79de2\\res\\values-v23\\values-v23.xml",
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +30,11 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\Kavi\\.gradle\\caches\\transforms-2\\files-2.1\\7fcbdc4bbfc2988a20e3b235b65117b1\\res\\values-v23\\values-v23.xml",
+=======
+                    "source": "C:\\Users\\kavi.yarasu\\.gradle\\caches\\transforms-2\\files-2.1\\b1bf139bfc365efc28263c58e4966e77\\res\\values-v23\\values-v23.xml",
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

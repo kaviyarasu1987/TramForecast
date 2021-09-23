@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.rim.tramforecast"
+<<<<<<< HEAD
     android:versionCode="2"
     android:versionName="1.1" >
+=======
+    android:versionCode="1"
+    android:versionName="1.0" >
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 
     <uses-sdk
         android:minSdkVersion="21"
@@ -10,7 +15,10 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+<<<<<<< HEAD
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 
     <application
         android:name="com.rim.tramforecast.view.Application"
@@ -21,12 +29,18 @@
         android:label="@string/app_name"
         android:roundIcon="@drawable/tram"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-9977175471932994~4273563645" />
 
+=======
+        android:testOnly="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
         <activity android:name="com.rim.tramforecast.view.ForecastActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -34,6 +48,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
 
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
@@ -54,6 +69,8 @@
         <meta-data
             android:name="android.support.VERSION"
             android:value="26.1.0" />
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     </application>
 
 </manifest>

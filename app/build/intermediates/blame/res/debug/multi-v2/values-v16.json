@@ -1,10 +1,27 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "D:\\AndroidProjects\\TramForecastUpToDate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kavi\\.gradle\\caches\\transforms-2\\files-2.1\\7fcbdc4bbfc2988a20e3b235b65117b1\\res\\values-v16\\values-v16.xml",
+=======
+            "outputFile": "C:\\Users\\kavi.yarasu\\StudioProjects\\TramForecastUpdated\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kavi.yarasu\\.gradle\\caches\\transforms-2\\files-2.1\\8fdce6eb47a59017f44e140dd0625a9e\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kavi.yarasu\\.gradle\\caches\\transforms-2\\files-2.1\\b1bf139bfc365efc28263c58e4966e77\\res\\values-v16\\values-v16.xml",
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,6 +38,7 @@
                         "endColumns": "12",
                         "endOffsets": "289"
                     }
+<<<<<<< HEAD
                 },
                 {
                     "source": "C:\\Users\\Kavi\\.gradle\\caches\\transforms-2\\files-2.1\\29f7888f54e310e836b9f2028d9968dc\\res\\values-v16\\values-v16.xml",
@@ -31,6 +49,8 @@
                         "endColumns": "65",
                         "endOffsets": "116"
                     }
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
                 }
             ]
         }

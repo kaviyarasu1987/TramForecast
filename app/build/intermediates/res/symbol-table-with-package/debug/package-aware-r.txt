@@ -25,7 +25,10 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+<<<<<<< HEAD
 array stoppings
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -63,9 +66,12 @@ attr activityChooserViewStyle
 attr actualImageResource
 attr actualImageScaleType
 attr actualImageUri
+<<<<<<< HEAD
 attr adSize
 attr adSizes
 attr adUnitId
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 attr alertDialogButtonGroupStyle
 attr alertDialogCenterButtons
 attr alertDialogStyle
@@ -82,7 +88,10 @@ attr autoSizePresetSizes
 attr autoSizeStepGranularity
 attr autoSizeTextType
 attr background
+<<<<<<< HEAD
 attr backgroundCircleColor
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 attr backgroundImage
 attr backgroundSplit
 attr backgroundStacked
@@ -95,7 +104,10 @@ attr behavior_hideable
 attr behavior_overlapTop
 attr behavior_peekHeight
 attr behavior_skipCollapsed
+<<<<<<< HEAD
 attr bigMarkColor
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 attr borderWidth
 attr borderlessButtonStyle
 attr bottomAppBarStyle
@@ -216,7 +228,10 @@ attr dropdownListPreferredItemHeight
 attr editTextBackground
 attr editTextColor
 attr editTextStyle
+<<<<<<< HEAD
 attr elapsedTimeColor
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 attr elevation
 attr enforceMaterialTheme
 attr enforceTextAppearance
@@ -274,8 +289,11 @@ attr hintEnabled
 attr hintTextAppearance
 attr homeAsUpIndicator
 attr homeLayout
+<<<<<<< HEAD
 attr hourGlassColor
 attr hourIndicatorColor
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 attr hoveredFocusedTranslationZ
 attr icon
 attr iconEndPadding
@@ -288,7 +306,10 @@ attr iconTintMode
 attr iconifiedByDefault
 attr imageButtonStyle
 attr indeterminateProgressStyle
+<<<<<<< HEAD
 attr indicatorColor
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 attr initialActivityCount
 attr insetForeground
 attr isLightTheme
@@ -342,7 +363,10 @@ attr maxButtonHeight
 attr maxImageSize
 attr measureWithLargestChild
 attr menu
+<<<<<<< HEAD
 attr minIndicatorColor
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 attr multiChoiceItemLayout
 attr navigationContentDescription
 attr navigationIcon
@@ -382,7 +406,10 @@ attr radioButtonStyle
 attr ratingBarStyle
 attr ratingBarStyleIndicator
 attr ratingBarStyleSmall
+<<<<<<< HEAD
 attr remainingTimeColor
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 attr retryImage
 attr retryImageScaleType
 attr reverseLayout
@@ -397,7 +424,10 @@ attr roundedCornerRadius
 attr roundingBorderColor
 attr roundingBorderPadding
 attr roundingBorderWidth
+<<<<<<< HEAD
 attr sandColor
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 attr scrimAnimationDuration
 attr scrimBackground
 attr scrimVisibleHeightTrigger
@@ -410,7 +440,10 @@ attr searchSuggestionBackground
 attr searchSuggestionIcon
 attr searchViewStyle
 attr searchVoiceIcon
+<<<<<<< HEAD
 attr secIndicatorColor
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 attr seekBarStyle
 attr selectableItemBackground
 attr selectableItemBackgroundBorderless
@@ -422,7 +455,10 @@ attr showTitle
 attr singleChoiceItemLayout
 attr singleLine
 attr singleSelection
+<<<<<<< HEAD
 attr smallMarkColor
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 attr snackbarButtonStyle
 attr snackbarStyle
 attr spanCount
@@ -513,7 +549,10 @@ attr thumbTintMode
 attr tickMark
 attr tickMarkTint
 attr tickMarkTintMode
+<<<<<<< HEAD
 attr time
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 attr tint
 attr tintMode
 attr title
@@ -551,7 +590,10 @@ attr windowFixedWidthMinor
 attr windowMinWidthMajor
 attr windowMinWidthMinor
 attr windowNoTitle
+<<<<<<< HEAD
 attr withBackground
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 bool abc_action_bar_embed_tabs
 bool abc_allow_stacked_button_bar
 bool abc_config_actionMenuItemAllCaps
@@ -664,7 +706,10 @@ color mtrl_textinput_filled_box_default_background_color
 color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
+<<<<<<< HEAD
 color notification_material_background_media_default_color
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -1021,7 +1066,10 @@ drawable ic_suggestion
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+<<<<<<< HEAD
 drawable notification
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -1033,7 +1081,10 @@ drawable notification_icon_background
 drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
+<<<<<<< HEAD
 drawable notificationoff
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 drawable notify_panel_notification_icon_bg
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1044,7 +1095,10 @@ id FUNCTION
 id META
 id SHIFT
 id SYM
+<<<<<<< HEAD
 id action0
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1068,7 +1122,10 @@ id action_voice_btn
 id actions
 id activity_chooser_view_content
 id actualminutes
+<<<<<<< HEAD
 id adView
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 id add
 id alertTitle
 id all
@@ -1079,7 +1136,10 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+<<<<<<< HEAD
 id cancel_action
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 id center
 id centerCrop
 id centerInside
@@ -1105,6 +1165,7 @@ id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
 id destination
+<<<<<<< HEAD
 id destinationOutbound
 id disableHome
 id due
@@ -1112,6 +1173,12 @@ id dueOutbound
 id edit_query
 id end
 id end_padder
+=======
+id disableHome
+id due
+id edit_query
+id end
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 id enterAlways
 id enterAlwaysCollapsed
 id exitUntilCollapsed
@@ -1149,7 +1216,10 @@ id line3
 id listMode
 id list_item
 id masked
+<<<<<<< HEAD
 id media_actions
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 id message
 id middle
 id mini
@@ -1162,7 +1232,10 @@ id navigation_header_container
 id never
 id none
 id normal
+<<<<<<< HEAD
 id notification
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 id notification_background
 id notification_main_column
 id notification_main_column_container
@@ -1176,6 +1249,11 @@ id pin
 id progress_circular
 id progress_horizontal
 id radio
+<<<<<<< HEAD
+=======
+id refresh
+id refreshtext
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 id right
 id right_icon
 id right_side
@@ -1208,7 +1286,10 @@ id showCustom
 id showHome
 id showTitle
 id showdescriptioncontenttitle
+<<<<<<< HEAD
 id showdescriptioncontenttitleinbound
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 id smallLabel
 id snackbar_action
 id snackbar_text
@@ -1220,10 +1301,14 @@ id src_atop
 id src_in
 id src_over
 id start
+<<<<<<< HEAD
 id status_bar_latest_event_content
 id stops
 id stopview
 id stopviewInbound
+=======
+id stopview
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 id stretch
 id submenuarrow
 id submit_area
@@ -1231,7 +1316,10 @@ id suggestion_icon
 id suggestion_list
 id suggestion_text
 id swipeRefreshLayout
+<<<<<<< HEAD
 id swipeRefreshLayoutOutbound
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 id tabMode
 id tag_transition_group
 id tag_unhandled_key_event_manager
@@ -1244,7 +1332,10 @@ id textStart
 id textWatcher
 id text_input_password_toggle
 id text_layout
+<<<<<<< HEAD
 id text_layout_inbound
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 id textinput_counter
 id textinput_error
 id textinput_helper_text
@@ -1255,9 +1346,13 @@ id title_template
 id top
 id topPanel
 id touch_outside
+<<<<<<< HEAD
 id tramDownTimer
 id tramView
 id tramViewOutbound
+=======
+id tramView
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 id transition_current_scene
 id transition_layout_save
 id transition_position
@@ -1281,7 +1376,10 @@ integer config_tooltipAnimTime
 integer design_snackbar_text_max_lines
 integer design_tab_indicator_anim_duration_ms
 integer galleryColumns
+<<<<<<< HEAD
 integer google_play_services_version
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 integer hide_password_duration
 integer mtrl_btn_anim_delay_ms
 integer mtrl_btn_anim_duration_ms
@@ -1341,6 +1439,7 @@ layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action
 layout notification_action_tombstone
+<<<<<<< HEAD
 layout notification_media_action
 layout notification_media_cancel_action
 layout notification_template_big_media
@@ -1352,6 +1451,10 @@ layout notification_template_icon_group
 layout notification_template_lines_media
 layout notification_template_media
 layout notification_template_media_custom
+=======
+layout notification_template_custom_big
+layout notification_template_icon_group
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout search_view
@@ -1360,7 +1463,12 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout suggest_item
 layout support_simple_spinner_dropdown_item
+<<<<<<< HEAD
 raw tram
+=======
+mipmap ic_launcher
+mipmap ic_launcher_round
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1403,10 +1511,15 @@ string abc_toolbar_collapse_description
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
+<<<<<<< HEAD
 string cannot_load_forecast
 string character_counter_content_description
 string character_counter_pattern
 string common_google_play_services_unknown_issue
+=======
+string character_counter_content_description
+string character_counter_pattern
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 string destination
 string due
 string fab_transformation_scrim_behavior
@@ -1419,6 +1532,7 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string refresh
+<<<<<<< HEAD
 string retry
 string s1
 string s2
@@ -1427,6 +1541,8 @@ string s4
 string s5
 string s6
 string s7
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 string search_hint
 string search_menu_title
 string status_bar_notification_info_overflow
@@ -1710,6 +1826,7 @@ style TextAppearance_AppCompat_Widget_Switch
 style TextAppearance_AppCompat_Widget_TextView_SpinnerItem
 style TextAppearance_Compat_Notification
 style TextAppearance_Compat_Notification_Info
+<<<<<<< HEAD
 style TextAppearance_Compat_Notification_Info_Media
 style TextAppearance_Compat_Notification_Line2
 style TextAppearance_Compat_Notification_Line2_Media
@@ -1718,6 +1835,11 @@ style TextAppearance_Compat_Notification_Time
 style TextAppearance_Compat_Notification_Time_Media
 style TextAppearance_Compat_Notification_Title
 style TextAppearance_Compat_Notification_Title_Media
+=======
+style TextAppearance_Compat_Notification_Line2
+style TextAppearance_Compat_Notification_Time
+style TextAppearance_Compat_Notification_Title
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 style TextAppearance_Design_CollapsingToolbar_Expanded
 style TextAppearance_Design_Counter
 style TextAppearance_Design_Counter_Overflow
@@ -1771,7 +1893,10 @@ style Theme_Design_Light
 style Theme_Design_Light_BottomSheetDialog
 style Theme_Design_Light_NoActionBar
 style Theme_Design_NoActionBar
+<<<<<<< HEAD
 style Theme_IAPTheme
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 style Theme_MaterialComponents
 style Theme_MaterialComponents_BottomSheetDialog
 style Theme_MaterialComponents_Bridge
@@ -1939,7 +2064,10 @@ styleable ActionMenuItemView android_minWidth
 styleable ActionMenuView
 styleable ActionMode background backgroundSplit closeItemLayout height subtitleTextStyle titleTextStyle
 styleable ActivityChooserView expandActivityOverflowButtonDrawable initialActivityCount
+<<<<<<< HEAD
 styleable AdsAttrs adSize adSizes adUnitId
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 styleable AlertDialog android_layout buttonIconDimen buttonPanelSideLayout listItemLayout listLayout multiChoiceItemLayout showTitle singleChoiceItemLayout
 styleable AnimatedStateListDrawableCompat android_dither android_visible android_variablePadding android_constantSize android_enterFadeDuration android_exitFadeDuration
 styleable AnimatedStateListDrawableItem android_id android_drawable
@@ -1965,10 +2093,15 @@ styleable ColorStateListItem android_color android_alpha alpha
 styleable CompoundButton android_button buttonTint buttonTintMode
 styleable CoordinatorLayout keylines statusBarBackground
 styleable CoordinatorLayout_Layout android_layout_gravity layout_anchor layout_anchorGravity layout_behavior layout_dodgeInsetEdges layout_insetEdge layout_keyline
+<<<<<<< HEAD
 styleable CountDownTimerView elapsedTimeColor indicatorColor remainingTimeColor strokeColor strokeWidth
 styleable DesignTheme bottomSheetDialogTheme bottomSheetStyle
 styleable DrawerArrowToggle arrowHeadLength arrowShaftLength barLength color drawableSize gapBetweenBars spinBars thickness
 styleable FlatClockView backgroundCircleColor bigMarkColor hourIndicatorColor minIndicatorColor secIndicatorColor smallMarkColor time withBackground
+=======
+styleable DesignTheme bottomSheetDialogTheme bottomSheetStyle
+styleable DrawerArrowToggle arrowHeadLength arrowShaftLength barLength color drawableSize gapBetweenBars spinBars thickness
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 styleable FloatingActionButton backgroundTint backgroundTintMode borderWidth elevation fabCustomSize fabSize hideMotionSpec hoveredFocusedTranslationZ maxImageSize pressedTranslationZ rippleColor showMotionSpec useCompatPadding
 styleable FloatingActionButton_Behavior_Layout behavior_autoHide
 styleable FlowLayout itemSpacing lineSpacing
@@ -1978,7 +2111,10 @@ styleable ForegroundLinearLayout android_foreground android_foregroundGravity fo
 styleable GenericDraweeHierarchy actualImageScaleType backgroundImage fadeDuration failureImage failureImageScaleType overlayImage placeholderImage placeholderImageScaleType pressedStateOverlayImage progressBarAutoRotateInterval progressBarImage progressBarImageScaleType retryImage retryImageScaleType roundAsCircle roundBottomLeft roundBottomRight roundTopLeft roundTopRight roundWithOverlayColor roundedCornerRadius roundingBorderColor roundingBorderPadding roundingBorderWidth viewAspectRatio
 styleable GradientColor android_startColor android_endColor android_type android_centerX android_centerY android_gradientRadius android_tileMode android_centerColor android_startX android_startY android_endX android_endY
 styleable GradientColorItem android_color android_offset
+<<<<<<< HEAD
 styleable HourGlassView hourGlassColor sandColor
+=======
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
 styleable LinearLayoutCompat android_gravity android_orientation android_baselineAligned android_baselineAlignedChildIndex android_weightSum divider dividerPadding measureWithLargestChild showDividers
 styleable LinearLayoutCompat_Layout android_layout_gravity android_layout_width android_layout_height android_layout_weight
 styleable ListPopupWindow android_dropDownHorizontalOffset android_dropDownVerticalOffset

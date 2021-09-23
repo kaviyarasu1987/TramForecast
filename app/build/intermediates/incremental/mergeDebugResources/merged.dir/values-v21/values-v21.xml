@@ -270,6 +270,7 @@
     </style>
     <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/>
     <style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/>
+<<<<<<< HEAD
     <style name="TextAppearance.Compat.Notification.Info.Media">
         <item name="android:textColor">@color/secondary_text_default_material_dark</item>
     </style>
@@ -284,6 +285,10 @@
     <style name="TextAppearance.Compat.Notification.Title.Media">
         <item name="android:textColor">@color/primary_text_default_material_dark</item>
     </style>
+=======
+    <style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/>
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
     <style name="TextAppearance.MaterialComponents.Button" parent="TextAppearance.AppCompat.Button">
     <item name="fontFamily">sans-serif-medium</item>
     <item name="android:fontFamily">sans-serif-medium</item>

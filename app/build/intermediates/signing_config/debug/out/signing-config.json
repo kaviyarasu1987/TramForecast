@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"mName":"debug","mStoreFile":"C:\\Users\\Kavi\\.android\\debug.keystore","mStorePassword":"android","mKeyAlias":"AndroidDebugKey","mKeyPassword":"android","mStoreType":"pkcs12","mV1SigningEnabled":true,"mV2SigningEnabled":true}
+=======
+{"mName":"debug","mStoreFile":"C:\\Users\\kavi.yarasu\\.android\\debug.keystore","mStorePassword":"android","mKeyAlias":"AndroidDebugKey","mKeyPassword":"android","mStoreType":"jks","mV1SigningEnabled":true,"mV2SigningEnabled":true}
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7

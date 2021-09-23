@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [{"type":"MAIN","splits":[],"versionCode":2,"versionName":"1.1","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"}]
+=======
+[{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"}]
+>>>>>>> 60757d28ed8f98bc9d1e79d17639ff23d430d8a7
